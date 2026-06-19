@@ -1,0 +1,8 @@
+streamlit
+easyocr
+langchain
+langchain-community
+langchain-text-splitters
+chromadb
+pillow
+numpy
