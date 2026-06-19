@@ -45,8 +45,9 @@ Run the following commands in your terminal to cache the embedding and inference
 ollama pull nomic-embed-text
 ollama pull llama3.2
 
----
 
+
+---
 ### Step 2: Clone & Install Dependencies
 ```bash
 git clone [https://github.com/YOUR_USERNAME/local-ocr-dynamic-rag.git](https://github.com/YOUR_USERNAME/local-ocr-dynamic-rag.git)
@@ -56,8 +57,8 @@ cd local-ocr-dynamic-rag
 pip install -r requirements.txt
 (Note: Create a requirements.txt featuring: streamlit, easyocr, langchain, langchain-community, langchain-text-splitters, chromadb, pillow, numpy)
 
-### Step 3: Run the Local Application
-Bash
+Step 3: Run the Local Application
+```bash
 streamlit run app.py
 
 📊 Database Schema (ChromaDB Vector Metadata)
@@ -76,3 +77,4 @@ JSON
 }
 🎥 Project Validation Demo
 Demo Presentation Video Link: [Insert Your Recorded Demo Video Link Here]
+
