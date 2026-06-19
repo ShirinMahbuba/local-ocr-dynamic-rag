@@ -45,6 +45,8 @@ Run the following commands in your terminal to cache the embedding and inference
 ollama pull nomic-embed-text
 ollama pull llama3.2
 
+---
+
 ### Step 2: Clone & Install Dependencies
 ```bash
 git clone [https://github.com/YOUR_USERNAME/local-ocr-dynamic-rag.git](https://github.com/YOUR_USERNAME/local-ocr-dynamic-rag.git)
