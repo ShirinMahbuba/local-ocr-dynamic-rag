@@ -84,4 +84,4 @@ Each injected document chunk is tightly coupled with the following schema mappin
 
 ## 🎥 Project Validation Demo
 
-* **Demo Presentation Video Link:** [Insert Your Recorded Demo Video Link Here]
+* **Demo Presentation Video Link:** [https://drive.google.com/file/d/11dT_oyvKJe_vz_rCafgXmBTKY_qpTxIk/view?usp=sharing]
